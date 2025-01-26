@@ -1,0 +1,13 @@
+Definition of pointeur:
+pointeur is concept used to reference or point to a memory location that stores a value or an object
+
+Role of pointeurs:
+Role is allow us to manipulate the data in the computer's memory - this can reduce the code and improve the performance.
+plus elve 
+
+--------
+Definition of func:
+A function is a block of code which only runs when it is called. You can pass data, known as parameters, into a function.
+
+Role o function:
+Functions are used to perform certain actions, and they are important for reusing code: Define the code once, and use it many times.
