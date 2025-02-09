@@ -7,7 +7,7 @@ void agram_func_puis(){
   float r,var;
   double gh=5;
      printf("size id %lu\n", sizeof(gh));
-    printf("--------Hello! Prof again:)--------\n");
+    printf("--------Hello! :)--------\n");
     printf("Give me Number then Puis: ");
   scanf("%f %d",&var, &pui);
   r=1.00;
@@ -24,7 +24,7 @@ int main(){
 /*
 int main(){
     int first=100;
-    printf("--------------Hello! Prof--------------");
+    printf("--------------Hello!--------------");
     printf("\nvalue of this variable is: %d",first);
     printf("\nmemory address of our varibale is: %p", &first); 
   //role of '&first' here is to show memory address, is often called a "pointer" AND "%p" to show value of the pointeur
