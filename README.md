@@ -80,8 +80,8 @@ To run any of these programs:
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/repository_name.git
-   cd repository_name
+   git clone https://github.com/Elmahfoud-Oul/Various_Mini_Programs_C.git
+   cd Various_Mini_Programs_C
 
 ---
 ### Note
